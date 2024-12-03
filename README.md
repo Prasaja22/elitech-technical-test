@@ -2,13 +2,11 @@
 
 Suatu website menggunakan framework Laravel dengan ketentuan konsep Personal Light Intagram, project ini menggunakan beberapa teknologi diantaranya:
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
+- [Laravel]([https://laravel.com/docs/routing](https://laravel.com/docs/master/installation)).
+- [Laravel Livewire]([https://laravel.com/docs/container](https://livewire.laravel.com/docs/quickstart)). 
+- [Tailwind css]([https://laravel.com/docs/queues](https://tailwindcss.com/docs/installation)).
+- [DOMPdf]([https://laravel.com/docs/queues](https://github.com/barryvdh/laravel-dompdf)).
+- [Laravel Excel]([https://laravel.com/docs/queues](https://docs.laravel-excel.com/3.1/getting-started/installation.html)). 
 
 Laravel is accessible, powerful, and provides tools required for large, robust applications.
 
