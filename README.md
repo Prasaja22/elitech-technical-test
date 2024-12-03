@@ -56,21 +56,14 @@ php artisan migrate
 php artisan db:seed
 ```
 
-### 7. Install Laravel Breeze
-Jalankan perintah berikut:
-```bash
-composer require laravel/breeze --dev
-php artisan breeze:install
-```
-
-### 8. Install Dependencies Frontend dan Compile Asset
+### 7. Install Dependencies Frontend dan Compile Asset
 Install dependensi frontend menggunakan npm, lalu kompilasi aset:
 ```bash
 npm install
 npm run dev
 ```
 
-### 9. Menjalankan Server Lokal
+### 8. Menjalankan Server Lokal
 Untuk menjalankan aplikasi, jalankan perintah berikut:
 ```bash
 php artisan serve
