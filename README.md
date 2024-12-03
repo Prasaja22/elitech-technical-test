@@ -63,7 +63,7 @@ composer require laravel/breeze --dev
 php artisan breeze:install
 ```
 
-8. Install Dependencies Frontend dan Compile Asset
+### 8. Install Dependencies Frontend dan Compile Asset
 Install dependensi frontend menggunakan npm, lalu kompilasi aset:
 ```bash
 npm install
